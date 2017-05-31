@@ -3,7 +3,9 @@ Python San Sebastian FAQ
 
 **Frequently Asked Questions - Hopefully we'll have an answer for you here...**
 
-If not, please contact us.
+If not, please contact us. 
+
+You can create an <a href="https://github.com/PythonSanSebastian/pyss-FAQ/issues" >issue</a> in this repository to contact us.
 
 General
 -------
@@ -15,7 +17,7 @@ Python San Sebastian is the first Python programming language community conferen
 Is a meeting point for all programmers, students and companies interested in the Python programming language and in our beautiful city San Sebastian.
 San Sebastian? Where is San Sebastian? How can I get there?
 
-You don’t know where San Sebastian is? No panic! You can find all information at http://pyss16.pyss.org/en/sansebastian
+You don’t know where San Sebastian is? No panic! You can find all information at https://www.sansebastiancongress.com/en/mice-city/how-to-get-here
 
 IMPORTANT: Please note that if you live outside Europe you may need a VISA to enter Spain and attend the conference. Please check this before buying your tickets!
 
@@ -23,7 +25,7 @@ In case you still need help please contact info@pyss.org
 
 **I love what you’re doing. How can I sponsor this great event?**
 
-You will find all the information needed at our sponsors page here: http://pyss16.pyss.org/en/sponsor
+You will find all the information needed at our sponsors page here: http://pyss17.pyss.org/sponsors.html
 
 If you need any extra information please contact us sending an email to info@pyss.org
 
@@ -68,7 +70,7 @@ No, because we trust you :-)
 You don’t need to send or upload any documentation during the registration and payment process, but the organizer may ask for your student card when picking up the badge during on-site check-in.
 I need to verify the VAT information of the ACPySS. Where can I find the address and VAT-ID?
 
-Please check our contacts page: http://pyss15.pyss.org/en/contacts
+Please check our contacts page: http://pyss17.pyss.org/contacts.html
 
 **I'm buying business tickets and I think I don't have to pay the 10% VAT.**
 
