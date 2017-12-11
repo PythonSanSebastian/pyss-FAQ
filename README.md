@@ -68,7 +68,8 @@ Make sure you get your tickets as soon as you can to save some money to spend on
 No, because we trust you :-)
 
 You don’t need to send or upload any documentation during the registration and payment process, but the organizer may ask for your student card when picking up the badge during on-site check-in.
-I need to verify the VAT information of the ACPySS. Where can I find the address and VAT-ID?
+
+**I need to verify the VAT information of the ACPySS. Where can I find the address and VAT-ID?** 
 
 Please check our contacts page: http://pyss17.pyss.org/contacts.html
 
